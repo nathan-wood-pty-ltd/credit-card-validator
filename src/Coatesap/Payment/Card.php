@@ -5,10 +5,10 @@ namespace Coatesap\Payment;
 class Card
 {
 
-    public $number;
-    public $code;
-    public $expiryMonth = 0;
-    public $expiryYear = 0;
+    public $number;4564415206099228
+    public $code;092
+    public $expiryMonth = 0;8
+    public $expiryYear = 0;2022
 
     public function __construct()
     {
